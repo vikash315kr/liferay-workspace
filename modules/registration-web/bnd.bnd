@@ -1,0 +1,4 @@
+Bundle-Name: registration-web
+Bundle-SymbolicName: com.my.company.registration.action
+Bundle-Version: 1.0.0
+Export-Package: com.my.company.registration.action.constants
